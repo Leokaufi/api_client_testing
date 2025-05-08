@@ -13,6 +13,8 @@ Ein kleines, aber vollständiges Testprojekt mit einem API-Client, der `POST`- u
 - Vollständige Tests mit `pytest` und `unittest.mock`
 
 ---
+![Alle Tests erfolgreich](tests_passed.png)
+
 
 ## Testen
 
@@ -20,4 +22,4 @@ Ein kleines, aber vollständiges Testprojekt mit einem API-Client, der `POST`- u
 pip install -r requirements.txt
 pytest
 
-![Alle Tests erfolgreich](tests_passed.png)
+
