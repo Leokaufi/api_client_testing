@@ -1,7 +1,7 @@
 import pytest
 import requests.exceptions
 
-from api_client_clean.client import APIClient
+from api_client_clean.client.api_client import APIClient
 from unittest.mock import Mock, patch
 
 def test_send_data_success():
