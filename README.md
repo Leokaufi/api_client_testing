@@ -14,7 +14,7 @@ Ein kleines, aber vollständiges Testprojekt mit einem API-Client, der `POST`- u
 
 ---
 
-## 🧪 Testen
+## Testen
 
 ```bash
 pip install -r requirements.txt
